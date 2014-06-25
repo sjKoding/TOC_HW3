@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+# Program: TocHw4.py
+# Author: sjKoding 林賢哲
+# ID: F74001098
+# purpose: Theory of Computation Hw4
+
 import sys
 import json
 import urllib2
