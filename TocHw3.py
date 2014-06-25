@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
-# Program: TocHw4.py
+# Program: TocHw3.py
 # Author: sjKoding 林賢哲
 # ID: F74001098
-# purpose: Theory of Computation Hw4
+# purpose: Theory of Computation Hw3
 
 import sys
 import json
